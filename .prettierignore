@@ -1,0 +1,15 @@
+# Ignore dependencies and build outputs
+node_modules
+package-lock.json
+yarn.lock
+dist/
+build/
+coverage/
+
+# Ignore configuration and generated files
+*.min.js
+*.map
+
+# Ignore environment and lock files
+.env
+.DS_Store
