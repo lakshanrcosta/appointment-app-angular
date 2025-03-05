@@ -30,6 +30,7 @@ module.exports = [
 
             "prettier/prettier": "error",
             "no-undef": "off",
+            "@typescript-eslint/no-explicit-any": "warn",
 
             "@angular-eslint/directive-selector": [
                 "error",
